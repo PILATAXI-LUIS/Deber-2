@@ -204,6 +204,8 @@ mismo.
 
 ## 4._ Video
 
+https://youtu.be/MaNbfIQnRQc
+
 ## 5._ Coclusiones
 
 * La intensidad de corriente esta estrechamente ligado ol voltaje que la produce y a la resistencia que pueden presentar los materiales por los que esta fluya y se integran de forma ordenada en la ecuacion que presenta la ley de Ohm.
